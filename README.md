@@ -7,7 +7,7 @@ Lack of a Centralized Online Presence
 ---
 ### Solutions
 
-Building Your Personal Website
+Building My Personal Website
 
 ---
 #### Tech Stack Used
@@ -17,6 +17,6 @@ HTML,CSS
 ---
 #### Future Plans
 
- Growing MY Personal Website
+ Growing My Personal Website
  
 ---
