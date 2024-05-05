@@ -1,14 +1,22 @@
 # ME
 ---
-## Problem Statement
+### Problem Statement
+
 Lack of a Centralized Online Presence
+
 ---
-## Solutions
+### Solutions
+
 Building Your Personal Website
+
 ---
-### Tech Stack Used
+#### Tech Stack Used
+
 HTML,CSS
+
 ---
-### Future Plans
+#### Future Plans
+
  Growing MY Personal Website
+ 
 ---
